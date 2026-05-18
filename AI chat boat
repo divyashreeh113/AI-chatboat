@@ -1,0 +1,3 @@
+Built "Excel GenAI Tutor" – an AI tool that helps non-technical users understand Excel formulas. 
+Used Python + Gemini API to generate formula + plain-English example + business use case for VLOOKUP, 
+Pivot Tables, IF statements. Aimed at improving productivity in IT Support and Operations roles.
